@@ -19,25 +19,35 @@ This app was made using Kotlin and Jetpack compose, aswell as using firebases fi
 
 ### Home Page!
 
+<p align="center">
   <img width="252" alt="Screenshot 2023-03-20 at 04 30 22" src="https://user-images.githubusercontent.com/98469510/226233045-a8451d86-e355-4088-afa6-8d2d5c64abae.png">
+</p>
 
 ### Favorites!
 
+<p align="center">
   <img width="252" alt="Screenshot 2023-03-20 at 04 30 46" src="https://user-images.githubusercontent.com/98469510/226233101-0b0beb96-829f-4ac2-8ffb-b0fdaa786dc4.png">
+</p>
 
 ### Explore recipes from online!
 
+<p align="center">
   <img width="252" alt="Screenshot 2023-03-20 at 04 31 23" src="https://user-images.githubusercontent.com/98469510/226233182-7904658d-abd4-4430-8a40-94ee54513f07.png">
   <img width="252" alt="Screenshot 2023-03-20 at 04 31 35" src="https://user-images.githubusercontent.com/98469510/226233201-9c24ba3c-0e52-4530-9610-8a090feb35d0.png">
   <img width="252" alt="Screenshot 2023-03-20 at 04 31 44" src="https://user-images.githubusercontent.com/98469510/226233227-518f9eb6-130d-404b-80de-9c02b287f9d5.png">
+</p>
 
 ### Edit New and existing recipes!
 
+<p align="center">
   <img width="252" alt="Screenshot 2023-03-20 at 04 32 17" src="https://user-images.githubusercontent.com/98469510/226233313-bdee4927-aa66-46c7-9356-d2c59df5adad.png">
   <img width="252" alt="Screenshot 2023-03-20 at 04 32 42" src="https://user-images.githubusercontent.com/98469510/226233365-91a948ea-6c22-4f74-a055-15aba57e39e7.png">
+</p>
 
 ### View recipes, remove them from the favorites screen (by holding an item for a long time), or delete recipes!
 
+<p align="center">
   <img width="252" alt="Screenshot 2023-03-20 at 04 34 04" src="https://user-images.githubusercontent.com/98469510/226233518-7c77d044-3a03-4dc1-acad-656a671297e8.png">
   <img width="252" alt="Screenshot 2023-03-20 at 04 34 17" src="https://user-images.githubusercontent.com/98469510/226233537-7857ca11-c0fe-48fc-bd43-832e50c377e0.png">
   <img width="252" alt="Screenshot 2023-03-20 at 04 34 30" src="https://user-images.githubusercontent.com/98469510/226233565-b0df5465-0d8d-43cf-a1cc-46f18c895a94.png">
+</p>
