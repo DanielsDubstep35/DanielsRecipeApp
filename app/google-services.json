@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886059684642",
+    "project_id": "violet-3c6bc",
+    "storage_bucket": "violet-3c6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886059684642:android:de9f7e14a8cc9815f3cb7b",
+        "android_client_info": {
+          "package_name": "dm.daniel.violet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886059684642-mspb9uo4km1reutgcks90s0h63ch9o10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU7ZbIjNQ1O7zuJkHz1p_jvtchnDtPJJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886059684642-mspb9uo4km1reutgcks90s0h63ch9o10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
