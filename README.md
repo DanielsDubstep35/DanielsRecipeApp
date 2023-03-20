@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/98469510/226231766-bdae17a5-939e-4dad-b8f7-094869b59e45.png" alt="DRA logo" width="750"/>
 </p>
 
-# DanielsRecipeApp
+# Daniels Recipe App
 A recipe app, where you can explore and view new recipes, create your own recipes, or even add your favorites recipes to a list. You can also save recipes from the categories page as your own, and add or remove steps as you like.
 
 ## Important Notes
